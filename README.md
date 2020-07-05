@@ -1,1 +1,2 @@
-<a href="index.html">Click Here to Proceed<a>
+Click Below
+<a href="index.html">Main Page<a>
