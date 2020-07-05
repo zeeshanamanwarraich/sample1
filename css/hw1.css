@@ -21,7 +21,7 @@ nav a{
     border-radius: 2px;
     color: rgba(7, 0, 0, 0.8);
     margin:4%;
-    padding: 15px 4% 15px 4%;
+    padding: 1% 4% 1% 4%;
     text-align: center;
     font-variant: small-caps;
     text-decoration: none;
@@ -46,7 +46,7 @@ a:active{
 nav{
     text-align: center;
     position: relative;
-    top: -20px;
+    top: -23px;
 }
 aside{
     display: inline-block;
